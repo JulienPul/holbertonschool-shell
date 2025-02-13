@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $pulon"
+echo "hello $root"
